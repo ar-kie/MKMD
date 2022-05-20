@@ -9,8 +9,8 @@ There are two folders pertaining to two major analysis steps performed:
 
 For reproducibility and testing of the steps involved in these analyses, we have included the workspaces resulting from prior analysis steps (e.g., full co-expression network for further network analysis).
 
-For inquiries and questions you can contact me under:
-e-mail: raphael (dot) kubler (at) mssm (dot) edu
+For inquiries and questions you can contact me under: 
+raphael (dot) kubler (at) mssm (dot) edu
 
 Contacts can also be found under the official publication:
 
