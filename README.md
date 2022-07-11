@@ -14,5 +14,5 @@ All data for complete replication are included in this repository. Please be sur
 For inquiries and questions you can contact me under: 
 raphael (dot) kubler (at) mssm (dot) edu
 
-Contacts can also be found under the [official publication](https://www.mdpi.com/2072-6643/14/10/2175).
+Contacts and specifics can also be found under the [official publication](https://www.mdpi.com/2072-6643/14/10/2175).
 
